@@ -1,13 +1,13 @@
 % ----------------------------
 % LoRa Parameter Optimization using Multi-Armed Bandits
 % Author: Wany917
-% Last Updated: 2025-05-15 12:47:32 UTC
+% Last Updated: 2025-05-16 09:01:11 UTC
 % ----------------------------
 clear all;
 close all;
 clc;
 
-fprintf('Starting execution at 2025-05-15 12:47:32 UTC\n');
+fprintf('Starting execution at 2025-05-16 09:01:11 UTC\n');
 fprintf('User: Wany917\n\n');
 
 % ----------------------------
